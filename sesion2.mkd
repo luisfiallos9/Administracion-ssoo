@@ -1,5 +1,5 @@
 # Sesión 2 - 2018/2019
-
+# sesión realizada por kevin
 - `echo`, `cd`, `ls` Órdenes internas
 
 - Oneliners vs multiliners
